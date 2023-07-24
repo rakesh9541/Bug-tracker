@@ -1,5 +1,7 @@
 # Bug-tracker
 
+Tech Stack:React.js, Node.js, PostgreSQL, Rest API, Prism
+
 
 Sync prisma schema with your db:
 
